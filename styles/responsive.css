@@ -19,6 +19,12 @@
     .navbar-main{
         flex-direction: row;
     }
+    .banner-main{
+        flex-direction: column;
+    }
+    .banner-childs{
+        width: 100%;
+    }
 
 
 }
